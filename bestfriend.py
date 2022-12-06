@@ -10,5 +10,5 @@ if Third_name == "Yes" "yes":
     print("YES")
 else:
     print("YOU SUCK")
-Forth_name = input("Russia now?")
+Forth_name = input("Russia now? ")
 print(f"{Forth_name}")
